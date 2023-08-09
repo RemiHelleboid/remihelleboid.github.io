@@ -15,10 +15,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'Remi Helleboid'
+    site_type: 'Person'
+    local_business_type: 'ProfessionalService'
+    org_name: 'C2N'
+    description: 'Remi Helleboid, Researcher in nanoelectronics and device simulation'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
