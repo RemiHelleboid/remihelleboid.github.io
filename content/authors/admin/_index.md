@@ -42,9 +42,9 @@ title: Rémi Helleboid
 email: ""
 ---
 
-Hiya! I'm a __PhD student__ in nanoelectronics with the __C2N__ (Université Paris-Saclay & CNRS), the __CEA LETI__ and __STMicroelectronics__.  
-I'm part of the [COMputational nanoelectronICS (COMICS)](https://comics.c2n.universite-paris-saclay.fr/) research group of the C2N.   
-My work is focused on the modeling of Single-Photon Avalanche Diodes. I'm developing simulation codes to achieve accurate simulations of the high-field electronic transport and electron-hole avalanche process in Silicon and other semiconductors.
+I'm a __PhD student__ in nanoelectronics with the __C2N__ (Université Paris-Saclay & CNRS), the __CEA LETI__ and __STMicroelectronics__.  
+I'm part of the [COMputational nanoelectronICS (COMICS)](https://comics.c2n.universite-paris-saclay.fr/) research group of the C2N.
+My work is focused on the modeling of Single-Photon Avalanche Diodes (SPAD). I'm developing simulation codes to achieve accurate simulations of the high-field electronic transport and electron-hole avalanche process in Silicon and other semiconductors.
 
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
