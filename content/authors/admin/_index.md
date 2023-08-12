@@ -25,6 +25,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-9871-1385
+  - icon: hal
+    icon_pack: ai
+    link: https://hal.science/search/index?q=Remi+R%C3%A9mi+%22Helleboid%22
 organizations:
   - name: C2N - Center for Nanosciences and Nanotechnologies
     url: https://www.c2n.universite-paris-saclay.fr/en/

@@ -36,6 +36,7 @@ feature:
     name: Applied Mathematics
 
 
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -51,3 +52,4 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
